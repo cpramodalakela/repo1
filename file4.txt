@@ -1,1 +1,4 @@
+Merged
 This is the file on master
+This is the file on b1
+
